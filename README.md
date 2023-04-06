@@ -1,5 +1,5 @@
 <h2> Hola, Soy Eider Pool Arjona! <img src="https://media2.giphy.com/media/yhfTY8JL1wIAE/giphy.gif?cid=ecf05e476s4am7saz824b8nt4w2h6crbm1sza7z01yffl8wu&rid=giphy.gif&ct=g" width="70"></h2>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQwZmUyMDU3YmM4ODk2OTQyOGM0MTQzYmFjZDU5Y2Q4NzVlMjE0OCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="180">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQwZmUyMDU3YmM4ODk2OTQyOGM0MTQzYmFjZDU5Y2Q4NzVlMjE0OCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="140">
 <p><em>Desarrollador Web</br>JavaScript, Node.js, Express, MySQL, MongoDB 
 </em></p>
 
